@@ -8,7 +8,7 @@
   }
   
   .author {
-    font-size: 0.8rem;
+    font-size: 1.2rem;
     font-weight: bold;
     color: #472772;
     margin: 0;
@@ -17,7 +17,7 @@
   
   .text {
     white-space: pre-wrap;
-    font-size: 1.25rem;
+    font-size: 1.2rem;
     margin: 0.25rem 0 0 0;
     color: #220306;
     font-style: italic;
